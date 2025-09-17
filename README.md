@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Victoria 👩‍💻
 
-<!--
-**victoria20s/victoria20s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am passionate about software development, problem-solving, and building meaningful projects.
 
-Here are some ideas to get you started:
+## 🔹 About Me
+- Name: Victoria
+- Role: Software Developer / Coding Enthusiast
+- Focus: Web development, Python, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- **Programming Languages:** Python, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Node.js, Django, Flask
+- **Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux
+- **Other:** REST APIs, SQL, Data Structures & Algorithms
+
+## 📂 Projects
+- Open-source contributions and personal projects showcasing coding and problem-solving skills.
+- (Optional: link 1-3 top projects)
+
+## 📫 Contact
+-vicktoriadevid@gmail.com
+- http://www.linkedin.com/in/victoria-david-246953361  
+- Portfolio / Projects:https://www.notion.so/Victoria-ekenma-David-25796747f53c80bca71cd12775f7394a?source=copy_
+  

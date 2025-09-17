@@ -13,10 +13,6 @@ Welcome to my GitHub profile! I am passionate about software development, proble
 - **Tools & Platforms:** Git, GitHub, VS Code, Docker, Linux
 - **Other:** REST APIs, SQL, Data Structures & Algorithms
 
-## 📂 Projects
-- Open-source contributions and personal projects showcasing coding and problem-solving skills.
-- (Optional: link 1-3 top projects)
-
 ## 📫 Contact
 -vicktoriadevid@gmail.com
 - http://www.linkedin.com/in/victoria-david-246953361  
